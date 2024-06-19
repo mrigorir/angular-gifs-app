@@ -1,76 +1,27 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# GifsApp
 
-# Project Name
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.1.
 
-> One paragraph statement about the project.
+## Development server
 
-![screenshot](./app_screenshot.png)
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-Additional description about the project and its features.
+## Code scaffolding
 
-## Built With
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-- Major languages
-- Frameworks
-- Technologies used
+## Build
 
-## Live Demo
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-[Live Demo Link](https://livedemo.com)
+## Running unit tests
 
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Getting Started
+## Running end-to-end tests
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
+## Further help
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Marco Parra**
-
-- GitHub: [github](https://github.com/mrigorir)
-- Twitter: [twitter](https://twitter.com/marcoparra311)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/marco-alonso-parra/)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
