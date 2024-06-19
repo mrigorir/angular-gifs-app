@@ -1,6 +1,6 @@
 # Gifs App
 
-> This one-single-page app searches for gifs using angular features.
+> This one-single-page app searches for gifs using angular features, thanks this [gifs API](https://developers.giphy.com/)
 
 
 ## Built With
@@ -93,9 +93,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Special thanks to [GIPHY](https://developers.giphy.com/)
+  
 
 ## 📝 License
 
